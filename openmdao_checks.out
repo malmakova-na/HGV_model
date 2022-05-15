@@ -1,0 +1,48 @@
+INFO: checking out_of_order
+WARNING: The following systems are executed out-of-order:
+   System 'traj.phases.boost_phase.rhs_all.aero' executes out-of-order with respect to its source systems ['traj.phases.boost_phase.rhs_all.atmos']
+
+INFO: checking system
+INFO: checking solvers
+INFO: checking dup_inputs
+INFO: checking missing_recorders
+WARNING: The Problem has no recorder of any kind attached
+INFO: checking unserializable_options
+INFO: checking comp_has_no_outputs
+INFO: checking auto_ivc_warnings
+INFO: checking out_of_order
+WARNING: The following systems are executed out-of-order:
+   System 'traj.phases.boost_phase.rhs_all.aero' executes out-of-order with respect to its source systems ['traj.phases.boost_phase.rhs_all.atmos']
+
+INFO: checking system
+INFO: checking solvers
+INFO: checking dup_inputs
+INFO: checking missing_recorders
+WARNING: The Problem has no recorder of any kind attached
+INFO: checking unserializable_options
+INFO: checking comp_has_no_outputs
+INFO: checking auto_ivc_warnings
+INFO: checking out_of_order
+WARNING: The following systems are executed out-of-order:
+   System 'traj.phases.boost_phase.rhs_all.aero' executes out-of-order with respect to its source systems ['traj.phases.boost_phase.rhs_all.atmos']
+
+INFO: checking system
+INFO: checking solvers
+INFO: checking dup_inputs
+INFO: checking missing_recorders
+WARNING: The Problem has no recorder of any kind attached
+INFO: checking unserializable_options
+INFO: checking comp_has_no_outputs
+INFO: checking auto_ivc_warnings
+INFO: checking out_of_order
+WARNING: The following systems are executed out-of-order:
+   System 'traj.phases.boost_phase.rhs_all.aero' executes out-of-order with respect to its source systems ['traj.phases.boost_phase.rhs_all.atmos']
+
+INFO: checking system
+INFO: checking solvers
+INFO: checking dup_inputs
+INFO: checking missing_recorders
+WARNING: The Problem has no recorder of any kind attached
+INFO: checking unserializable_options
+INFO: checking comp_has_no_outputs
+INFO: checking auto_ivc_warnings

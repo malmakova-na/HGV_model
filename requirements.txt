@@ -1,0 +1,8 @@
+numpy
+pandas
+jupyter
+scipy
+matplotlib
+openmdao==3.17.0
+dymos==1.4.0
+scipy

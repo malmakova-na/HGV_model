@@ -1,0 +1,97 @@
+{
+    "exp_name": "hgv_test",
+    "boost": {
+        "path_constraints": {
+            "height": {
+                "lower": 6000,
+                "upper": 60000
+            },
+            "velocity": {
+                "lower": 0,
+                "upper": 5000
+            }
+        },
+        "boundary_constraints": {
+            "final": {
+                "height": {
+                    "equals": 60000
+                },
+                "velocity": {
+                    "equals": 5000
+                },
+                "alpha": {
+                    "lower": 1,
+                    "upper": 12
+                },
+                "gamma": {
+                    "equals": 0
+                }
+            }
+        },
+        "guesses": {
+            "height": {
+                "start": 6000,
+                "end": 60000
+            },
+            "velocity": {
+                "start": 500,
+                "end": 5000
+            },
+            "gamma": {
+                "start": 0,
+                "end": 0
+            },
+            "alpha": {
+                "start": 1,
+                "end": 12
+            }
+        }
+    },
+    "glide": {
+        "path_constraints": {
+            "height": {
+                "lower": 2500,
+                "upper": 60000
+            },
+            "velocity": {
+                "lower": 0,
+                "upper": 5000
+            }
+        },
+        "boundary_constraints": {
+            "final": {
+                "height": {
+                    "equals": 25000
+                },
+                "velocity": {
+                    "equals": 1000
+                },
+                "alpha": {
+                    "lower": 9,
+                    "upper": 12
+                },
+                "gamma": {
+                    "equals": -0.087
+                }
+            }
+        },
+        "guesses": {
+            "height": {
+                "start": 60000,
+                "end": 25000
+            },
+            "velocity": {
+                "start": 5000,
+                "end": 1000
+            },
+            "gamma": {
+                "start": 0,
+                "end": -0.087
+            },
+            "alpha": {
+                "start": 1,
+                "end": 12
+            }
+        }
+    }
+}
